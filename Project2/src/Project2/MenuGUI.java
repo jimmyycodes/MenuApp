@@ -1,5 +1,4 @@
 package Project2;
-// Created by Taesik Kim for the practice of CS 211 project
 
 import java.awt.*;
 import javax.swing.*;
