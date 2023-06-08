@@ -1,8 +1,6 @@
 package Project2;
 import java.util.*;
 /*
- * Jimmy Le 
- * 202457646
  * myFranchise asks users for specific questions that builds their menu. 
  */
 public class myFranchise{
