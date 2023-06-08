@@ -1,7 +1,5 @@
 package Project2;
 /*
- * Jimmy Le
- * 202457646
  * Exchange rate class calculates the exchange rate for the specific currency. 
  */
 import java.io.BufferedReader;
