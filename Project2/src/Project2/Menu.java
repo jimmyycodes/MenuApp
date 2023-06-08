@@ -1,7 +1,5 @@
 package Project2;
 /*
- * Jimmy Le
- * 202457646
  * Menu is a subclass of Burger211 and it initializes the abstract method from burger211 where it will implement the exchange rate and 
  * create the GUI where the menu pops up.
  */
