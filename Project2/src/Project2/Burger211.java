@@ -1,7 +1,5 @@
 package Project2;
 /*
- * Jimmy Le
- * 202457646
  * Burger211 class is a super class that creates the three objects for the burger. It has abstract and regular methods that would be used
  * in sub classes to print out desired things like name, topping, and price.
  */
